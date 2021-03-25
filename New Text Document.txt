@@ -1,0 +1,29 @@
+color:
+black #010101;
+ash #898989;
+color:#fcdb00;
+
+
+
+spacing
+
+
+
+sm
+top 60px
+bottom 80px
+ 
+
+col
+top 50px;
+bottom 70px;
+
+
+font-size
+
+
+xl
+h2 32px
+
+col
+h2
